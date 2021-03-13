@@ -1,4 +1,14 @@
 {
-    "name": "semantic-test",
-    "version": "0.0.0-development"
+  "name": "semantic-test",
+  "version": "0.0.0-development",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DCMattyG/semantic-test.git"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.4.2"
+  }
 }
