@@ -1,6 +1,9 @@
 {
   "name": "semantic-test",
   "version": "0.0.0-development",
+  "release": {
+    "branches": ["main", "next"]
+  },
   "scripts": {
     "semantic-release": "semantic-release"
   },
